@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Tusar2004  
+- 👀 I’m interested in software development, AI, and open-source contributions.  
+- 🌱 I’m currently learning advanced Java, AI-driven applications, and API integration.  
+- 💞️ I’m looking to collaborate on AI-powered projects, automation tools, and backend development.  
+- 📫 How to reach me:  
+  - GitHub: [Tusar2004](https://github.com/Tusar2004)  
+  - LinkedIn: [https://www.linkedin.com/in/tusar9/](#)  
+  - Email: [tusarg937@gmail.com](#)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love playing online games and optimizing LinkedIn profiles with AI!  
