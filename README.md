@@ -7,8 +7,7 @@
 - 💻 Aspiring Full Stack Web & Mobile Developer (**MERN | Flutter**)  
 - 📊 Data Science & Machine Learning Enthusiast  
 - 🎯 Problem Solver & DSA Lover  
-- 🌱 Always learning something new  
-- 🛡️ Cybersecurity Learner (**TryHackMe**)  
+- 🌱 Always learning something new   
 - ⚡ Fun fact: I love debugging at **3AM 😄**
 
 ---
