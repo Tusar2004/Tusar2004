@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tusar Goswami  
-**Aspiring Full Stack Developer | Data Science & ML Enthusiast | Cybersecurity Learner 🚀**
+**Aspiring Full Stack Developer | UI/UX Developer | Flutter 🚀**
 
 ---
 
