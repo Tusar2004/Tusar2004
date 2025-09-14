@@ -5,7 +5,6 @@
 
 ## 🔥 About Me
 - 💻 Aspiring Full Stack Web & Mobile Developer (**MERN | Flutter**)  
-- 📊 Data Science & Machine Learning Enthusiast  
 - 🎯 Problem Solver & DSA Lover  
 - 🌱 Always learning something new   
 - ⚡ Fun fact: I love debugging at **3AM 😄**
@@ -20,7 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000) 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=fff)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=fff) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)  
 
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff) 
@@ -34,14 +34,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff) 
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=fff)  
-
-### 📊 Data Science & ML
-![Data Science](https://img.shields.io/badge/-Data%20Science-4B8BBE?style=flat) 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)  
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=fff) 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=fff)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=fff) 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=000)  
 
 ---
 
