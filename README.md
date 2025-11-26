@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=header&text=Tusar%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@
 *(Project details sourced from your uploaded CV)* :contentReference[oaicite:0]{index=0}
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=header&text=Tusar%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
