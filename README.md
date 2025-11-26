@@ -54,6 +54,11 @@ const tusar = {
     currentFocus: "Building scalable full-stack applications",
     funFact: "I debug best at 3 AM with coffee ☕"
 };
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
 
 ## 🛠️ Tech Arsenal
 
@@ -127,6 +132,8 @@ const tusar = {
 ### 🎯 Head-2-Code
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=Head-2-Code&theme=tokyonight&hide_border=true" width="100%"/>
+
 **MERN Stack Coding Platform**
 - ⚡ Multi-language code execution
 - 🎮 1v1 coding battles
@@ -140,6 +147,9 @@ const tusar = {
 
 ### 🏍️ Velo-Rapido
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=Velo-Rapido&theme=tokyonight&hide_border=true" width="100%"/>
+
 **Premium Bike Rental System**
 - 🚲 Real-time booking & tracking
 - 💳 Integrated payment gateway
@@ -156,6 +166,9 @@ const tusar = {
 
 ### 🤖 LinkedIn Optimizer Pro
 [![GitHub](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusar2004&repo=LinkedIn-Optimizer&theme=tokyonight&hide_border=true" width="100%"/>
+
 **AI-Powered Profile Assistant**
 - 🧠 AI keyword scoring
 - 📄 PDF/Excel export
@@ -169,6 +182,9 @@ const tusar = {
 
 ### 🌟 More Projects
 [![GitHub](https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004?tab=repositories)
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%"/>
+
 **Currently Building:**
 - 📱 Social Media App (Flutter)
 - 🛒 E-commerce Platform (MERN)
@@ -188,6 +204,9 @@ const tusar = {
 ## 🏆 Achievements & Certifications
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tusar2004&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
+
 </div>
 
 ### 💪 Coding Milestones
