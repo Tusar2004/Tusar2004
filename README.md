@@ -180,7 +180,9 @@ const tusar = {
 </td>
 <td width="50%">
 
-### 🌟 More Projects Coming Soon...
+### 🌟 More Projects
+[![GitHub](https://img.shields.io/badge/View_All-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tusar2004?tab=repositories)
+
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%"/>
 
 **Currently Building:**
@@ -278,10 +280,13 @@ const tusar = {
   <a href="https://www.geeksforgeeks.org/user/__tusar27/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/tusarg937">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
   </a>
-  <a href="https://tryhackme.com/">
+  <a href="https://www.codechef.com/users/tusar_27">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="35"/>
+  </a>
+  <a href="https://tryhackme.com/p/tusarg937">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="35"/>
   </a>
 </p>
@@ -308,8 +313,11 @@ const tusar = {
   <a href="https://github.com/Tusar2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
+  <a href="https://www.hackerrank.com/profile/tusarg937">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35"/>
+  </a>
+  <a href="https://leetcode.com/u/__tusar27/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
   </a>
 </p>
 
