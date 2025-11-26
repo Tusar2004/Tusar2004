@@ -141,11 +141,6 @@
 ## 📊 GitHub & LeetCode Stats (Premium Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tusar2004&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar2004&theme=tokyonight&border_radius=12" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar2004&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
 </p>
 
