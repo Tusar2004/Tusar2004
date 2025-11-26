@@ -1,68 +1,165 @@
-# Hi 👋, I'm Tusar Goswami  
-**Aspiring Full Stack Developer | UI/UX Developer | Flutter 🚀**
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=header&text=Tusar%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+</p>
+
+<h2 align="center">Aspiring Full Stack Developer | UI/UX Developer | Flutter Enthusiast 🚀</h2>
 
 ---
 
-## 🔥 About Me
-- 💻 Aspiring Full Stack Web & Mobile Developer (**MERN | Flutter**)  
-- 🎯 Problem Solver & DSA Lover  
-- 🌱 Always learning something new   
-- ⚡ Fun fact: I love debugging at **3AM 😄**
+## 🔥 About Me  
+- 💻 Passionate about Full Stack Development (**MERN & Flutter**)  
+- 🧠 Strong in scalable architecture & UI development  
+- 🎯 Good problem solver with strong DSA foundation  
+- ⚡ Fun fact: I fix the hardest bugs at **3 AM 😄**  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=fff)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=fff)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=fff)  
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
 
-### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![Java](https://img.shields.io-badge/-Java-007396?style=flat&logo=java&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=000)  
+### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=fff)  
-
----
-
-## 🏆 Coding Profiles
-- [LeetCode](https://leetcode.com/u/__tusar27/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/__tusar27/)  
-- [TryHackMe](https://tryhackme.com/)  
+### 🛢 Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
 
 ---
 
-## 📊 GitHub & LeetCode Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tusar2004&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tusar2004&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar2004&layout=compact&theme=tokyonight)  
+## 🚀 Featured Projects  
+*(Project details sourced from your uploaded CV)* :contentReference[oaicite:1]{index=1}
 
-### 🥇 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/__tusar27?theme=dark&font=Baloo%202&ext=contest)  
-
----
-
-## 📈 Visitors Count
-![Visitor Count](https://komarev.com/ghpvc/?username=Tusar2004&style=flat&color=blue)
+<p align="center">
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:tusarg937@gmail.com)  
+### 🌟 **Head-2-Code — MERN Based Coding Platform**
+<p>
+  <img src="https://img.shields.io/badge/MERN-00d09c?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Judge0%20API-6A5ACD?style=for-the-badge"/>
+</p>
+
+💡 A powerful online coding ecosystem with:  
+✔️ Secure multi-language code execution  
+✔️ 1v1 coding battle mode  
+✔️ Contest workflows & submission evaluation  
+✔️ Interactive React + Redux coding console  
+
+📌 **Tech:** React, Redux, Node.js, Express.js, MongoDB, Judge0 API, Tailwind CSS  
 
 ---
 
-⭐ Thanks for visiting my profile! Have a nice day 😄
+### 🏍 **Velo-Rapido — Premium Bike Rental System**
+<p>
+  <img src="https://img.shields.io/badge/PHP-8993BE?style=for-the-badge&logo=php&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=fff"/>
+</p>
+
+🔐 A complete rental management system offering:  
+✔️ Booking + payment + real-time vehicle tracking  
+✔️ Damage & maintenance auditing  
+✔️ Admin fleet management dashboard  
+✔️ Secure user verification  
+
+📌 **Tech:** PHP, MySQL, JavaScript, Tailwind CSS  
+
+---
+
+### 🤖 **LinkedIn Optimizer Pro — AI-Powered Assistant**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff"/>
+</p>
+
+⚡ Smart AI tool featuring:  
+✔️ AI-based keyword enrichment & profile scoring  
+✔️ Summary analytics & domain recognition  
+✔️ PDF/Excel exporting  
+✔️ Intelligent chatbot-driven interface  
+
+📌 **Tech:** Python, Flask, JavaScript, TailwindCSS  
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/giphy.gif" width="200"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+*(Achievements sourced from your uploaded CV)* :contentReference[oaicite:2]{index=2}
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+</p>
+
+### 🥇 Coding Milestones  
+- 🚀 Solved **300+ coding problems** across LeetCode, CodeChef & HackerRank  
+- ⭐ Earned top badges including  
+  - 🟡 **5-Star in Java (HackerRank)**  
+  - 🟣 **5-Star in C++ (HackerRank)**  
+- 🎯 Strengthened problem-solving & DSA skills  
+
+---
+
+### 🎓 Technical Certifications  
+- 📱 **Mobile App Development Using Flutter — LPU**  
+- ☁️ **Cloud Computing — NPTEL IIT Kharagpur**  
+- 🤖 **Prompt Engineering — Infosys Springboard**  
+
+---
+
+## 📊 Coding Profiles  
+- **LeetCode:** https://leetcode.com/u/__tusar27/  
+- **GeeksforGeeks:** https://www.geeksforgeeks.org/user/__tusar27/  
+- **TryHackMe:** https://tryhackme.com/  
+
+---
+
+## 📊 GitHub & LeetCode Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tusar2004&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusar2004&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar2004&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/__tusar27?theme=dark&font=Baloo%202&ext=contest" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/tusar027/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:tusargoswami0027@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=100&section=footer" />
+</p>
