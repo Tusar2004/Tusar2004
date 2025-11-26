@@ -97,14 +97,6 @@
 
 📌 **Tech:** Python, Flask, JS, TailwindCSS  
 
----
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
-</p>
-
----
-
 ## 🏆 Achievements  
 *(Achievements sourced from your uploaded CV)* :contentReference[oaicite:1]{index=1}
 
