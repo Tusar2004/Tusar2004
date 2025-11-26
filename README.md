@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=header&text=Tusar%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
+  <img src="https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/giphy.gif" width="200"/>
 </p>
 
 <h2 align="center">Aspiring Full Stack Developer | UI/UX Developer | Flutter Enthusiast 🚀</h2>
@@ -48,7 +48,7 @@
 *(Project details sourced from your uploaded CV)* :contentReference[oaicite:0]{index=0}
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=180&section=header&text=Tusar%20Goswami&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/YOczfjtC0H0IMBKhRf/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="170"/>
 </p>
 
 ---
