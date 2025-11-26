@@ -138,12 +138,6 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats (Premium Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusar2004&layout=compact&theme=tokyonight&border_radius=12" height="170"/>
-</p>
-
 ### 🥇 LeetCode Stats  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/__tusar27?theme=dark&font=Baloo%202&ext=contest&border_radius=12" />
